@@ -24,10 +24,8 @@ Films with the same title but different categories.
 Customers who have rented films on consecutive days.
 
 # Credits
-The DVD Rental database used in this analysis is a sample database that comes with the popular PostgreSQL database management system.
+The DVD Rental database used in this analysis is a sample database from the PostgreSQL database management system.
 
 PostgreSQL Sample Database: https://www.postgresqltutorial.com/postgresql-sample-database/
-# License
-This project is licensed under the MIT License - see the LICENSE file for details.
 
 By Zeiad Zamzam
