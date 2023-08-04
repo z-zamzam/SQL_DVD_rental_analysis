@@ -1,5 +1,6 @@
 # SQL Analysis of DVD Rental Database
 
+![IMG_6451-2](https://github.com/z-zamzam/cantek-week2-repo/assets/127634089/a148d15f-4435-4d52-a1c2-f8db4b46f000)
 
 
 This GitHub repository contains a collection of SQL queries that analyze the DVD Rental database. The DVD Rental database represents the business processes of a DVD rental store and consists of 15 tables, 1 trigger, 7 views, 8 functions, 1 domain, and 13 sequences.
